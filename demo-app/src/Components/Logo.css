@@ -1,0 +1,11 @@
+.font {
+    font-family: fantasy;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+.font-nav {
+    font-family: fantasy;
+}

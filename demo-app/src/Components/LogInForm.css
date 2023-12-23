@@ -1,0 +1,25 @@
+/* Add any global styles if needed */
+
+.container-centered {
+    margin-top: 5rem; /* Adjust the top margin as needed */
+  }
+  
+  /* Center the content horizontally */
+  .row-centered {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Adjust the width of the form */
+  .col-form {
+    max-width: 400px; /* Adjust the maximum width as needed */
+  }
+  
+  /* Add more styles as necessary */
+  .center {
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+  

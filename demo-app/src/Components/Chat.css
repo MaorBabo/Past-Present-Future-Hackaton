@@ -1,0 +1,17 @@
+
+.chat-container {
+  max-height: 300px; /* Set a maximum height for the chat container */
+  overflow-y: auto; /* Enable vertical scroll if messages exceed the container height */
+  
+}
+
+/* Add the following styles to position the chat at the bottom of the page */
+.chat-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: lightgray; /* Set your desired background color #ffffff*/
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow for styling */
+}
